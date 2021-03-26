@@ -1,5 +1,5 @@
 # .exe_files
-software/game 
+
 
 #talking tool for mute
 text to speech assist 
